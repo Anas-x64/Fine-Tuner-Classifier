@@ -1,7 +1,6 @@
 # Fine-Tuner for Classifier
-
-> A simple, efficient script for fine-tuning a Hugging Face text classification model.  
-> **by Anas**
+A simple, efficient script for fine-tuning a Hugging Face text classification model.  
+**by Anas**
 
 This repository contains a Python script (`finetune_classifier.py`) that allows you to:
 
